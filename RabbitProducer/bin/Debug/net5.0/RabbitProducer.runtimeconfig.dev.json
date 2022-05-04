@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\burno\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\burno\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2OK8e6Hsce4pGr7Hdjm6vKhbMhpkYBR+3Z3wYUoE7vZKr9htHiDXPkjM1YpozzcGV0CvFTb4w5EEgVvUckiJBA==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\RabbitProjeto\\RabbitProducer\\RabbitProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burno\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\burno\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\burno\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
